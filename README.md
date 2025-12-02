@@ -22,3 +22,8 @@ Schreib einen Akzeptanztest für folgendes Feature: Als Speaker möchte ich eine
 Ich möchte folgendes Feature hinzufügen: Als Speaker möchte ich einen eingereichten Beitrag bearbeiten können.
 Gehe nach BDD vor. Schreib zunächst nur das Featurefile (in englisch).
 ```
+
+## Tools
+* [Augment Code](https://www.augmentcode.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [reqnroll](https://reqnroll.net/)
