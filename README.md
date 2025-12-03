@@ -24,6 +24,6 @@ Gehe nach BDD vor. Schreib zunächst nur das Featurefile (in englisch).
 ```
 
 ## Tools
-* [Augment Code](https://www.augmentcode.com/)
+* [Augment Code](https://www.augmentcode.com/) (Model: Claude Opus 4.5)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [reqnroll](https://reqnroll.net/)
